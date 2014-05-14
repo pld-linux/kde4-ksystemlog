@@ -9,12 +9,12 @@
 Summary:	System log viewer for KDE
 Summary(pl.UTF-8):	Przeglądarka logów systemowych dla KDE
 Name:		kde4-%{orgname}
-Version:	4.13.0
+Version:	4.13.1
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	b49c95c6a555863bc766107ea9856fc6
+# Source0-md5:	a9ba957cd111a86f80b410e5c9dc3172
 URL:		http://www.kde.org/
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
