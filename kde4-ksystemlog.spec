@@ -4,7 +4,6 @@
 %define		orgname		ksystemlog
 %define		qtver		4.8.1
 
-%include	/usr/lib/rpm/macros.perl
 
 Summary:	System log viewer for KDE
 Summary(pl.UTF-8):	Przeglądarka logów systemowych dla KDE
